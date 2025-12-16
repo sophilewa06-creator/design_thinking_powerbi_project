@@ -1,0 +1,101 @@
+﻿ID,Edad,Género,Tipo_Cita,Canal_Agendamiento,Satisfacción_PreCita (1-5),Satisfacción_PostCita (1-5),NPS (0-10),Tiempo_Espera_Checkin_Min,Tiempo_Espera_PostCita_Min,Comentario
+1,63,Otro,Laboratorio,App Móvil,2,1,4,28,50,Nunca recibí recordatorio de mi cita.
+2,20,Otro,Laboratorio,Llamada,1,1,1,109,77,Recibí información contradictoria.
+3,46,Femenino,Medicina General,Llamada,1,2,0,74,63,No sabía cuándo era mi turno.
+4,52,Femenino,Especialidad,Llamada,1,1,9,58,69,El sistema digital falló varias veces.
+5,56,Masculino,Medicina General,Llamada,1,2,3,59,86,Tuve que preguntar muchas veces en recepción.
+6,35,Masculino,Control,Web,2,3,6,88,64,El personal administrativo parecía desbordado.
+7,37,Masculino,Laboratorio,Llamada,2,2,0,37,33,Esperé demasiado para el check-in.
+8,60,Masculino,Medicina General,WhatsApp,1,1,1,131,49,El sistema digital falló varias veces.
+9,77,Masculino,Medicina General,Llamada,2,1,2,51,73,La señalización interna es confusa.
+10,75,Masculino,Control,Llamada,2,2,0,193,43,Me dijeron un tiempo y luego fue otro.
+11,40,Otro,Laboratorio,App Móvil,2,2,10,66,48,Esperé demasiado para el check-in.
+12,51,Otro,Especialidad,Llamada,2,1,0,181,10,No hubo orientación al finalizar la consulta.
+13,50,Otro,Control,WhatsApp,2,2,1,168,29,El personal administrativo parecía desbordado.
+14,67,Otro,Medicina General,Llamada,1,2,0,70,34,Nadie explicó los pasos a seguir.
+15,65,Otro,Especialidad,App Móvil,2,1,0,61,15,Recibí información contradictoria.
+16,27,Masculino,Laboratorio,Llamada,1,3,0,128,82,El sistema digital falló varias veces.
+17,50,Masculino,Especialidad,Llamada,1,2,1,167,12,Nunca recibí recordatorio de mi cita.
+18,64,Masculino,Control,Llamada,2,2,3,173,45,Me sentí perdido durante todo el proceso.
+19,50,Otro,Laboratorio,Llamada,1,2,1,58,79,No sabía dónde pagar ni qué exámenes debía hacer.
+20,65,Otro,Control,App Móvil,2,1,1,33,47,La experiencia fue confusa y estresante.
+21,43,Femenino,Control,WhatsApp,2,3,0,178,74,No sabía dónde pagar ni qué exámenes debía hacer.
+22,37,Otro,Laboratorio,Web,2,2,1,101,47,La señalización interna es confusa.
+23,32,Masculino,Laboratorio,Llamada,1,3,2,170,37,Salí de la cita sin claridad sobre lo que seguía.
+24,79,Otro,Control,Llamada,2,1,0,25,56,La experiencia fue confusa y estresante.
+25,54,Otro,Control,Llamada,2,1,2,47,82,Me dijeron un tiempo y luego fue otro.
+26,50,Otro,Laboratorio,WhatsApp,1,1,1,57,56,La plataforma de citas es poco intuitiva.
+27,34,Femenino,Control,App Móvil,1,1,3,199,19,Nunca recibí recordatorio de mi cita.
+28,22,Femenino,Medicina General,Web,2,1,0,119,81,La señalización interna es confusa.
+29,67,Otro,Medicina General,Web,1,2,6,146,14,El personal administrativo parecía desbordado.
+30,73,Masculino,Control,Llamada,2,1,0,45,22,Nadie explicó los pasos a seguir.
+31,21,Femenino,Laboratorio,Llamada,2,1,0,85,43,La plataforma de citas es poco intuitiva.
+32,20,Femenino,Medicina General,Web,1,2,4,51,34,El sistema digital falló varias veces.
+33,38,Femenino,Medicina General,WhatsApp,2,1,0,126,32,Me dijeron un tiempo y luego fue otro.
+34,57,Femenino,Especialidad,App Móvil,2,2,4,166,12,Recibí información contradictoria.
+35,20,Otro,Control,Llamada,1,1,9,125,17,La señalización interna es confusa.
+36,38,Masculino,Laboratorio,Web,1,2,6,199,55,La plataforma de citas es poco intuitiva.
+37,65,Femenino,Especialidad,WhatsApp,1,3,4,31,71,El personal administrativo parecía desbordado.
+38,74,Otro,Especialidad,Llamada,1,2,8,100,48,La señalización interna es confusa.
+39,79,Masculino,Especialidad,Llamada,2,1,1,180,60,Me sentí perdido durante todo el proceso.
+40,66,Otro,Laboratorio,Web,2,2,6,155,31,La plataforma de citas es poco intuitiva.
+41,25,Otro,Especialidad,Web,1,1,1,174,54,La señalización interna es confusa.
+42,59,Masculino,Medicina General,App Móvil,2,2,7,109,84,Nunca recibí recordatorio de mi cita.
+43,53,Masculino,Medicina General,WhatsApp,2,1,0,53,32,Salí de la cita sin claridad sobre lo que seguía.
+44,78,Femenino,Medicina General,WhatsApp,2,2,8,172,58,Nadie avisó del retraso en atención.
+45,46,Otro,Laboratorio,WhatsApp,1,1,5,91,89,No sabía cuándo era mi turno.
+46,70,Otro,Laboratorio,Llamada,1,2,6,129,60,No sabía dónde pagar ni qué exámenes debía hacer.
+47,56,Otro,Control,Llamada,1,1,0,185,37,La señalización interna es confusa.
+48,51,Masculino,Laboratorio,WhatsApp,1,1,2,118,38,Recibí información contradictoria.
+49,39,Masculino,Especialidad,Llamada,1,2,0,72,68,Nadie explicó los pasos a seguir.
+50,72,Femenino,Especialidad,App Móvil,2,1,4,127,79,El sistema digital falló varias veces.
+51,48,Masculino,Laboratorio,WhatsApp,1,2,0,65,87,Me sentí perdido durante todo el proceso.
+52,45,Femenino,Laboratorio,App Móvil,1,3,0,147,37,Esperé demasiado para el check-in.
+53,52,Femenino,Laboratorio,App Móvil,1,2,0,161,83,Nadie avisó del retraso en atención.
+54,51,Masculino,Control,App Móvil,2,2,6,47,56,El personal administrativo parecía desbordado.
+55,30,Femenino,Control,Web,2,1,1,173,13,Nadie explicó los pasos a seguir.
+56,58,Otro,Especialidad,Web,2,2,2,184,11,Me dijeron un tiempo y luego fue otro.
+57,21,Femenino,Control,WhatsApp,2,2,2,133,73,No hubo orientación al finalizar la consulta.
+58,60,Otro,Especialidad,App Móvil,1,1,0,178,38,Nunca recibí recordatorio de mi cita.
+59,23,Femenino,Laboratorio,WhatsApp,1,2,2,57,56,No entendí qué formularios debía llenar.
+60,18,Masculino,Control,App Móvil,1,2,3,161,24,El personal administrativo parecía desbordado.
+61,29,Femenino,Medicina General,App Móvil,1,1,1,105,47,El personal administrativo parecía desbordado.
+62,52,Masculino,Control,WhatsApp,2,2,1,94,58,Nadie explicó los pasos a seguir.
+63,76,Otro,Control,Web,1,1,2,198,81,El sistema digital falló varias veces.
+64,28,Femenino,Especialidad,WhatsApp,2,1,8,31,49,"Mucha espera, poca comunicación."
+65,40,Masculino,Especialidad,Web,2,1,2,152,25,"Mucha espera, poca comunicación."
+66,31,Femenino,Laboratorio,App Móvil,1,1,8,31,43,No entendí qué formularios debía llenar.
+67,36,Masculino,Control,Web,1,2,2,145,15,Nadie explicó los pasos a seguir.
+68,54,Otro,Medicina General,WhatsApp,2,1,2,185,62,La plataforma de citas es poco intuitiva.
+69,33,Masculino,Laboratorio,Llamada,2,1,0,138,30,Nadie explicó los pasos a seguir.
+70,61,Femenino,Laboratorio,WhatsApp,1,3,2,162,38,Demasiados pasos para un proceso simple.
+71,45,Femenino,Laboratorio,Web,1,1,7,128,11,Nunca recibí recordatorio de mi cita.
+72,79,Femenino,Laboratorio,Llamada,1,3,0,52,35,Recibí información contradictoria.
+73,62,Femenino,Control,App Móvil,2,3,0,199,53,Me sentí perdido durante todo el proceso.
+74,48,Otro,Especialidad,Llamada,2,1,1,70,27,Esperé demasiado para el check-in.
+75,70,Masculino,Laboratorio,WhatsApp,1,1,1,46,39,Nadie avisó del retraso en atención.
+76,24,Masculino,Especialidad,Llamada,2,2,6,45,32,Tuve que preguntar muchas veces en recepción.
+77,63,Femenino,Especialidad,Web,2,1,0,135,57,No hubo orientación al finalizar la consulta.
+78,69,Otro,Especialidad,Web,1,1,7,56,64,Salí de la cita sin claridad sobre lo que seguía.
+79,44,Masculino,Laboratorio,WhatsApp,2,1,3,184,32,Demasiados pasos para un proceso simple.
+80,34,Masculino,Especialidad,Llamada,1,1,7,139,49,Salí de la cita sin claridad sobre lo que seguía.
+81,24,Otro,Especialidad,Llamada,2,1,3,188,73,No hubo orientación al finalizar la consulta.
+82,32,Masculino,Control,Llamada,2,2,5,183,81,Demasiados pasos para un proceso simple.
+83,70,Otro,Control,Llamada,2,3,1,94,23,La experiencia fue confusa y estresante.
+84,57,Otro,Control,WhatsApp,1,1,1,78,87,Salí de la cita sin claridad sobre lo que seguía.
+85,29,Otro,Medicina General,App Móvil,1,1,1,45,11,Nadie explicó los pasos a seguir.
+86,72,Otro,Laboratorio,App Móvil,1,3,4,59,13,Nadie explicó los pasos a seguir.
+87,25,Masculino,Laboratorio,Web,1,2,1,47,18,Salí de la cita sin claridad sobre lo que seguía.
+88,19,Otro,Medicina General,WhatsApp,1,2,0,194,25,No sabía dónde pagar ni qué exámenes debía hacer.
+89,61,Masculino,Control,Llamada,1,1,8,48,41,No hubo orientación al finalizar la consulta.
+90,76,Femenino,Laboratorio,App Móvil,1,1,7,118,36,Me sentí perdido durante todo el proceso.
+91,55,Femenino,Medicina General,WhatsApp,2,3,1,98,24,No entendí qué formularios debía llenar.
+92,73,Femenino,Especialidad,Llamada,2,1,3,93,77,No sabía dónde pagar ni qué exámenes debía hacer.
+93,43,Masculino,Especialidad,Web,1,1,1,151,34,Esperé demasiado para el check-in.
+94,68,Masculino,Especialidad,Web,2,1,0,149,24,Esperé demasiado para el check-in.
+95,38,Masculino,Laboratorio,Web,2,3,1,194,21,Demasiados pasos para un proceso simple.
+96,74,Otro,Control,Llamada,1,1,1,182,80,Nadie avisó del retraso en atención.
+97,67,Masculino,Control,WhatsApp,2,2,6,158,33,Recibí información contradictoria.
+98,30,Masculino,Especialidad,WhatsApp,2,2,5,76,79,La plataforma de citas es poco intuitiva.
+99,36,Femenino,Control,Web,1,1,4,106,50,La experiencia fue confusa y estresante.
+100,35,Femenino,Especialidad,WhatsApp,2,1,8,178,69,No sabía dónde pagar ni qué exámenes debía hacer.
