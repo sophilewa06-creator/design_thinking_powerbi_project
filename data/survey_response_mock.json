@@ -1,0 +1,60 @@
+{
+  "survey_id": "SM_2025_PATIENT_EXP_01",
+  "survey_title": "Experiencia Administrativa Pacientes",
+  "collector": {
+    "type": "web_link",
+    "status": "open"
+  },
+  "responses": [
+    {
+      "response_id": "R_0001",
+      "date_created": "2025-06-01T08:35:21Z",
+      "demographics": {
+        "age": 34,
+        "gender": "Femenino",
+        "appointment_type": "Consulta general",
+        "booking_channel": "Teléfono"
+      },
+      "experience": {
+        "pre_appointment_satisfaction": 2,
+        "post_appointment_satisfaction": 2,
+        "nps_score": 3,
+        "waiting_time_minutes": 42
+      },
+      "pain_points": {
+        "check_in_delay": true,
+        "form_confusion": true,
+        "lack_of_turn_information": true,
+        "poor_exit_guidance": true,
+        "no_automatic_reminders": true
+      },
+      "open_comment": "El proceso fue muy lento, nadie explicó bien los pasos y tuve que esperar demasiado."
+    },
+    {
+      "response_id": "R_0002",
+      "date_created": "2025-06-01T09:02:14Z",
+      "demographics": {
+        "age": 51,
+        "gender": "Masculino",
+        "appointment_type": "Especialista",
+        "booking_channel": "WhatsApp"
+      },
+      "experience": {
+        "pre_appointment_satisfaction": 1,
+        "post_appointment_satisfaction": 2,
+        "nps_score": 2,
+        "waiting_time_minutes": 55
+      },
+      "pain_points": {
+        "check_in_delay": true,
+        "form_confusion": false,
+        "lack_of_turn_information": true,
+        "poor_exit_guidance": true,
+        "no_automatic_reminders": true
+      },
+      "open_comment": "La atención médica fue buena, pero todo el proceso administrativo es caótico."
+    }
+  ],
+  "total_responses": 100,
+  "exported_at": "2025-06-05T18:00:00Z"
+}
