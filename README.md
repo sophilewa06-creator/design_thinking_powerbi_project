@@ -1,6 +1,6 @@
 # ETL de Datos de Encuesta & Design Thinking – Experiencia del Paciente
 
-## Contexto de Negocio
+## Contexto de Negocio.
 
 Los centros médicos privados suelen recopilar retroalimentación de sus pacientes a través de plataformas de encuestas como **SurveyMonkey**.
 
